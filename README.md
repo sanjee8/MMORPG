@@ -6,5 +6,5 @@ personnage dans une petite map où il peut rencontrer des monstres à affronter,
 * Langage utilisée : JAVA
 
 # Équipe
-* Ramsanjeevan RAMMOHAN
+* Sanjeevan RAMMOHAN
 * Enrick LLARI
